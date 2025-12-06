@@ -243,4 +243,4 @@ const InquiryManagement: React.FC = () => {
   );
 };
 
-export default InquiryManagement;</parameter>
+export default InquiryManagement;

@@ -310,4 +310,4 @@ const ChatWidget: React.FC = () => {
   );
 };
 
-export default ChatWidget;</parameter>
+export default ChatWidget;
