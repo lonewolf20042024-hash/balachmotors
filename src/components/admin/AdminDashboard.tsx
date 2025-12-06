@@ -125,4 +125,4 @@ const AdminDashboard: React.FC = () => {
   );
 };
 
-export default AdminDashboard;</parameter>
+export default AdminDashboard;

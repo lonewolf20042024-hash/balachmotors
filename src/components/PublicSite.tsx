@@ -27,4 +27,4 @@ const PublicSite: React.FC = () => {
   );
 };
 
-export default PublicSite;</parameter>
+export default PublicSite;
